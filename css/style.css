@@ -202,16 +202,11 @@ body{
 }
 /* header css main */
 .main_container{
-    width:100%;
     background-color:rgba(41,21,71,0.8);
     margin-top: 70px;
+    margin-left: 240px;
 }
-.main_articles{
-    height:400px;
-    box-sizing: border-box;
-    display: flex;
-    padding-left: 35px;
-}
+
 .main_text{
     color:whitesmoke;
     font-size: 1.3rem;
@@ -222,13 +217,7 @@ body{
     cursor: pointer;
 
 }
-.main_article{
-    width:210px;
-    height:300px;
-    margin-left: 40px;
-    display: block;
-  
-}
+
 .main_article img{
     height:200px;
     border-radius: 3px;
